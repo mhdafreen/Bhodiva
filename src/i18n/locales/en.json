@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "name": "BODHIVA",
+    "tagline": "Knowledge is the first step to better health",
+    "subtagline": "AI-Powered Medical Report Understanding for Everyone"
+  },
+  "nav": {
+    "home": "Home",
+    "upload": "Understand Report",
+    "dashboard": "Health Vault",
+    "howItWorks": "How it Works",
+    "privacy": "Privacy & Safety",
+    "about": "About",
+    "language": "Language",
+    "startFree": "Analyze Report",
+    "guestMode": "Continue as Guest"
+  },
+  "disclaimer": {
+    "banner": "Educational Medical Information Only. Bodhiva explains laboratory reports in plain language. It does not provide medical diagnoses or treatment advice. Always discuss results with a qualified doctor.",
+    "short": "Not a diagnostic tool. Consult your doctor."
+  },
+  "onboarding": {
+    "title": "Welcome to Bodhiva",
+    "subtitle": "Which language are you most comfortable with?",
+    "description": "Healthcare information belongs to everyone. Choose your preferred language to read explanations, charts, and test definitions naturally.",
+    "continue": "Confirm & Continue",
+    "changeLater": "You can change your language anytime from the top navigation.",
+    "guestOption": "Continue without account",
+    "createAccount": "Create account to save history"
+  },
+  "hero": {
+    "badge": "Made for patients & families across India",
+    "title": "Medical reports explained in words you actually understand.",
+    "subtitle": "Snap a photo of your printed lab test or upload a PDF. Bodhiva explains what each test measures, what your numbers mean, and what to ask your doctor — in your native language.",
+    "ctaCamera": "Take Photo with Mobile",
+    "ctaUpload": "Upload Medical Report",
+    "ctaExplore": "See a Sample Report",
+    "securityNote": "Strictly confidential. No signup required. Instant guest analysis."
+  },
+  "features": {
+    "title": "Designed for clarity, empathy, and accuracy",
+    "subtitle": "Healthcare terminology shouldn't feel like a foreign language.",
+    "camera": {
+      "title": "Direct Mobile Camera",
+      "desc": "Take a photo of any printed lab sheet. Our smart viewfinder checks lighting and sharpness before processing."
+    },
+    "multilingual": {
+      "title": "True Native Languages",
+      "desc": "Natural explanations in Malayalam, Hindi, Tamil, Telugu, Kannada, and English — not clunky word-by-word machine translations."
+    },
+    "ranges": {
+      "title": "Visual Reference Ranges",
+      "desc": "See exactly where your values fall: within range, higher, or lower, using clean visual range bars and status cards."
+    },
+    "doctorPrep": {
+      "title": "Questions for Your Doctor",
+      "desc": "Get 3 to 5 clear, sensible questions to ask during your consultation so you never leave the clinic confused."
+    },
+    "safety": {
+      "title": "Zero Medical Hallucination",
+      "desc": "We never invent missing values. If a number or unit is illegible, we explicitly notify you."
+    },
+    "privacy": {
+      "title": "Private & Ephemeral",
+      "desc": "Guest reports are processed securely and deleted automatically. You can erase all data with a single tap."
+    }
+  },
+  "sample": {
+    "badge": "Interactive Preview",
+    "title": "How a Complete Blood Count (CBC) looks in Bodhiva",
+    "testName": "Hemoglobin (Hb)",
+    "measuredValue": "10.1 g/dL",
+    "refRange": "12.0 – 15.5 g/dL",
+    "status": "Below Reference Range",
+    "explanation": "Hemoglobin is the essential protein in red blood cells that carries oxygen from your lungs to the rest of your body. When it is below the reference range, your tissues may receive less oxygen, which can cause tiredness or fatigue.",
+    "question": "What might be causing this lower level, and do I need iron supplements or dietary changes?"
+  },
+  "upload": {
+    "title": "Understand Your Medical Report",
+    "subtitle": "Choose the most convenient way to provide your laboratory test sheet.",
+    "cameraTab": "Take a Photo",
+    "galleryTab": "Choose from Gallery",
+    "pdfTab": "Upload PDF Document",
+    "cameraDesc": "Use your phone camera to snap physical lab sheets page-by-page.",
+    "galleryDesc": "Select clear photos or screenshots (JPG, PNG) from your device.",
+    "pdfDesc": "Upload diagnostic lab PDF reports (up to 20MB).",
+    "dropzoneText": "Drag and drop your medical report here, or click to browse",
+    "supportedFormats": "Supported: JPG, JPEG, PNG, PDF (Max 20MB per document)",
+    "takePhotoBtn": "Open Camera",
+    "selectFilesBtn": "Select Files",
+    "pagesAdded": "Page(s) Added",
+    "addPage": "Add Another Page",
+    "rotate": "Rotate",
+    "remove": "Remove",
+    "analyzeBtn": "Analyze Report Now",
+    "processing": "Processing your report securely..."
+  },
+  "footer": {
+    "tagline": "Knowledge is the first step to better health.",
+    "rights": "All rights reserved. Bodhiva Healthcare Technologies.",
+    "medicalNotice": "Bodhiva is an educational reference platform. It does not provide medical diagnoses, clinical prescriptions, or healthcare treatment plans. In case of a medical emergency, please visit the nearest hospital or consult a certified medical practitioner immediately."
+  }
+}
